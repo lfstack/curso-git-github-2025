@@ -1,7 +1,0 @@
-## FLUXO DE TRABALHO
-
-Recordando nosso fluxo do dia a dia
-
-Branch a partir de main PR → main (validação/CI) Promover main → main-hml (merge/PR) → validar HML Promover main-hml (ou main já validado) → main-prd → PRD
-
-Hotfix urgente: branch → PR em main-hml e/ou main-prd, depois backmerge para main
